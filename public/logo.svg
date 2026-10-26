@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="title desc">
+  <title id="title">Obravix</title>
+  <desc id="desc">Obravix - Gestão Inteligente de Obras</desc>
+  <g fill="none" stroke="#0b477f" stroke-width="8" stroke-linejoin="round">
+    <path fill="#0b477f" d="M20 112V53l44-27v59L20 112Zm48-29V25l35-20v58L68 83Zm40-23V30l34 20v28l-34 22V60Z"/>
+    <path fill="#ff7d00" stroke="#ff7d00" d="M32 126l74-45v25l-50 30Z"/>
+  </g>
+  <text x="170" y="93" font-family="Arial, sans-serif" font-size="74" font-weight="700" fill="#082e5d">Obra<tspan fill="#ff7d00">v</tspan>ix</text>
+  <text x="173" y="127" font-family="Arial, sans-serif" font-size="16" letter-spacing="5" fill="#4a4a4a">GESTÃO INTELIGENTE DE OBRAS</text>
+</svg>
